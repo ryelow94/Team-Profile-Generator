@@ -6,4 +6,5 @@
 ## Usage: 
 ### This app requires the user to install "inquirer" in order to prompt the questions and "jest" in order to run the tests. 
 
-##
+## Link to demo video 
+# https://drive.google.com/file/d/1dtS5SrGYtOMg3HhVYaTUuAVbIqUN727Q/view
