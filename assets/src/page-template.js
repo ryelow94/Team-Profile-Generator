@@ -27,7 +27,7 @@
             <ul class="list-group">
                 <li class="list-group-item">ID: ${engineer.returnId()}</li>
                 <li class="list-group-item">Email: <a href="mailto:${engineer.returnEmail()}">${engineer.returnEmail()}</a></li>
-                <li class="list-group-item">Office number: ${engineer.returnGitHub()}</li>
+                <li class="list-group-item">GitHub: <a href= "${engineer.returnGithub()}">${engineer.returnGithub()}<a/></li>
             </ul>
         </div>
     </div>
@@ -44,7 +44,7 @@
             <ul class="list-group">
                 <li class="list-group-item">ID: ${intern.returnId()}</li>
                 <li class="list-group-item">Email: <a href="mailto:${intern.returnEmail()}">${intern.returnEmail()}</a></li>
-                <li class="list-group-item">Office number: ${intern.returnSchool()}</li>
+                <li class="list-group-item">School: ${intern.returnSchool()}</li>
             </ul>
         </div>
     </div>

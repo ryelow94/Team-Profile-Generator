@@ -12,6 +12,9 @@ returnRole() {
 }  
 returnOfficeNumber() {
     return this.officeNumber
+} 
+returnEmail() {
+    return this.email
 }
 } 
 
